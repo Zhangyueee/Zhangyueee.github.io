@@ -42,7 +42,7 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: 页面走丢了哦'
   message:             |
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
     <!--home_link--> to try finding it again.
