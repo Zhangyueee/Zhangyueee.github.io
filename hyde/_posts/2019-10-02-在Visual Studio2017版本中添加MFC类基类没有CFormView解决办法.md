@@ -1,8 +1,12 @@
 ## 在Visual Studio2017版本中添加MFC类基类没有CFormView解决办法
 
+[TOC]
+
+
+
 #### 问题描述：
 
-![https://raw.githubusercontent.com/Zhangyueee/Storage/master/VS2017添加类1.jpg]()
+![](https://raw.githubusercontent.com/Zhangyueee/Storage/master/VS2017添加类1.jpg)
 
 在VS2017版本添加MFC类基类是没有CFormView的
 
@@ -70,4 +74,5 @@ ClassName::ClassName()
 
 添加方法：
 
-![https://raw.githubusercontent.com/Zhangyueee/Storage/master/VS2017添加类2.jpg]()
+![](https://raw.githubusercontent.com/Zhangyueee/Storage/master/VS2017添加类2.png)
+
